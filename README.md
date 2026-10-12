@@ -1,4 +1,4 @@
-# 📊 Social Media Ad Performance Tracker
+# 📊 Meta Ad Performance Analytics
 
 An interactive **Power BI dashboard** that analyzes and compares advertising performance across **Facebook** and **Instagram** (Meta platforms). It turns raw campaign data into actionable insights on reach, engagement, conversions, and budget efficiency.
 
@@ -89,7 +89,7 @@ Users switch between platforms using the **Facebook / Instagram navigation butto
 
 ## 📁 Repository Structure
 
-├── Social_Media_Ad_Performance_Tracker.pbix
+├── Meta_Ad_Performance_Analytics.pbix
 ├── dataset/
 │ └── ad_campaign_data.csv
 ├── screenshots/
@@ -116,7 +116,7 @@ Users switch between platforms using the **Facebook / Instagram navigation butto
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/your-username/social-media-ad-performance-tracker.git
+   git clone https://github.com/your-username/Meta-Ad-Performance-Analytics.git
 ```
 2. Open the `.pbix` file in **Power BI Desktop**.
 3. If prompted, refresh the data source path.

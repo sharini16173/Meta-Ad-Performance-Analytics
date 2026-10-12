@@ -103,11 +103,11 @@ Users switch between platforms using the **Facebook / Instagram navigation butto
 ## 🖼️ Screenshots
 
 ### Facebook Dashboard
-<img width="1327" height="738" alt="image" src="https://github.com/user-attachments/assets/de756f43-7911-4227-b8e9-7e636c680b96" />
+<img width="1322" height="741" alt="image" src="https://github.com/user-attachments/assets/8aa97f58-9b5b-49cb-90d4-59a4fca2cc74" />
 
 
 ### Instagram Dashboard
-<img width="1325" height="736" alt="image" src="https://github.com/user-attachments/assets/75a67e7b-60db-45ec-b486-dbb8f6da1c5d" />
+<img width="1380" height="742" alt="image" src="https://github.com/user-attachments/assets/7f11700d-3a78-469d-8de1-505c7bca8c6b" />
 
 
 ---

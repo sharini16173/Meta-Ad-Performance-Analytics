@@ -135,5 +135,10 @@ Users switch between platforms using the **Facebook / Instagram navigation butto
 
 ## 👤 Author
 
-SHARINI G
-[LinkedIn](www.linkedin.com/in/sharini-g-571546382) | [GitHub](https://github.com/sharini16173)
+**Sharini G**
+
+- 💼 LinkedIn: [linkedin.com/in/sharini-g-571546382](https://www.linkedin.com/in/sharini-g-571546382)
+- 📧 Email: [g.sharini1601@gmail.com](mailto:g.sharini1601@gmail.com)
+- 🐙 GitHub: [github.com/sharini16173](https://github.com/sharini16173)
+
+⭐ If you found this project useful, consider giving it a star!
